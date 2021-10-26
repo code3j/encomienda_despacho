@@ -1,5 +1,7 @@
 # encomienda_despacho
 Programa creado en Java para resolver el problema que se describe en el README
+
+
 En aeródromo local se realiza una competencia aérea, la cual los competidores debe pasar por N checkpoints (puntos de
 revisión) en donde se les toma el tiempo (en segundos) que tardaron en llegar a dicho punto. Al finalizar la competencia
 toda la información se registra en el archivo”Tiempos.txt” el cual contiene:
